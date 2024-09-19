@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" alt="Profile GIF" width="150" height="150" style="border-radius: 50%;">
 </div>
-<h1 align="center">👋 Hey there, I'm Ngo Chi Thien!</h1>
+<h1 align="center">👋 Hey there, I'm Thien!</h1>
 <h3 align="center">Passionate about building sleek and user-friendly mobile applications.</h3>
 
 <p align="center"> 
