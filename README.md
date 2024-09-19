@@ -1,7 +1,4 @@
-
-<div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/lonelyshop-96faa.appspot.com/o/video%2Fgamer-room-based-on-valorant-v0-UY8WRyXPpQTb4h-Ki0UI6Llsgjz0N_NQMh592F8qwR0.webp?alt=media&token=774df30d-0dd2-4a7f-81e9-2eb75456c55a" alt="MasterHead" width="1000" height="auto">
-</div>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 
 <div align="center">
   <img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" alt="Profile GIF" width="150" height="150" style="border-radius: 50%;">
