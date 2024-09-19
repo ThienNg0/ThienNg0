@@ -48,10 +48,19 @@ I'm a frontend developer with a strong focus on crafting exceptional Android exp
 I'm always eager to connect with fellow developers, explore potential collaborations, or simply chat about the world of tech. Feel free to reach out!
 
 <div align="center">
-  <a href="mailto:thienngo2003@gmail.com">
-    <img src="https://img.shields.io/badge/-thienngo2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.facebook.com/chithien221203/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Connect%20on%20Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</div> 
+<table>
+  <tr>
+    <td>
+      <a href="mailto:thienngo2003@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/chithien221203/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
