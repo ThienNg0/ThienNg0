@@ -18,8 +18,11 @@
 
 I'm a frontend developer with a strong focus on crafting exceptional Android experiences. I love turning creative ideas into polished mobile apps that are both functional and delightful to use.
 
-- 🔭  Currently building: **[LonelyShop](https://github.com/ThienNg0/lonelyShop)** - is a store that sells branded goods such as fashion, furniture, etc. Put products up for users to order..
-- 🤝  Open to collaborating on: **[FoodApp](https://github.com/ThienNg0/FoodApp)** - is an app that makes food preparation easier and gives you complete information about the selected meal including instructions on how to prepare that meal with videos and adding to favorites.
+- 🔭  All: <a href="https://github.com/ThienNg0?tab=repositories" target="_blank" alt="View my GitHub Repositories">
+  Project
+</a>
+
+
 - 💬  Ask me anything about: **Android Development** - I'm always happy to chat about the latest trends, share my knowledge, or learn from your experiences.
 
 ## 🛠️ My Toolkit
