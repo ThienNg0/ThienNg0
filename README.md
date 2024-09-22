@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-ThienNg0&color=blue" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=your-github-ThienNg0&color=green" alt="Profile Views" /> 
 </p>
 <div align="center">
   <img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" alt="Profile GIF" width="150" height="150" style="border-radius: 50%;">
