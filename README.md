@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=280&height=60">
 
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-ThienNg0&color=blue" alt="Profile Views" />
+</p>
 <div align="center">
   <img src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" alt="Profile GIF" width="150" height="150" style="border-radius: 50%;">
 </div>
