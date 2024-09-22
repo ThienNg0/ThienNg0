@@ -5,7 +5,7 @@
     <h1 align="center">✩&emsp;Thien&emsp;✩</h1>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=380&height=30">
 
 </p>
 <div align="center">
