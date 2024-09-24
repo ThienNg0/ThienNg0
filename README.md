@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
-    <h1 align="center">✩&emsp;Thien&emsp;✩</h1>
+    <h1 align="center">✩&emsp;Chi Thien&emsp;✩</h1>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=280&height=60">
