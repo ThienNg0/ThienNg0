@@ -19,54 +19,11 @@
 <h1 align="center">👋 Hey there, I'm Thien!</h1>
 <h3 align="center">Passionate about building sleek and user-friendly mobile applications.</h3>
 
-<p align="center"> 
-  <a href="https://www.facebook.com/chithien221203/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Connect%20on%20Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
-  </a>
-</p>
+
 
 ---
 
-## 🚀 About Me
 
-I'm a frontend developer with a strong focus on crafting exceptional Android experiences. I love turning creative ideas into polished mobile apps that are both functional and delightful to use.
-
-- 🔭  All: <a href="https://github.com/ThienNg0?tab=repositories" target="_blank" alt="View my GitHub Repositories">
-  Project
-</a>
-
-
-- 💬  Ask me anything about: **Android Development** - I'm always happy to chat about the latest trends, share my knowledge, or learn from your experiences.
-
-## 🛠️ My Toolkit
-
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thienng0&show_icons=true&locale=en&theme=dark" alt="thienng0" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thienng0&show_icons=true&locale=en&layout=compact&theme=dark" alt="thienng0" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-I'm always eager to connect with fellow developers, explore potential collaborations, or simply chat about the world of tech. Feel free to reach out!
 
 
 
