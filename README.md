@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=280&height=60">
 </p>
 
-<!-- <p align="center">
+ <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ThienNg0&theme=tokyonight&border_radius=5&date_format=n%2Fj%5B%2FY%5D&card_width=510&card_height=210" alt="GitHub Streak" /></a></a>
 </p> 
 
