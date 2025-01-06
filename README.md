@@ -1,7 +1,7 @@
-<p align="center">
+<!--<<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%23FFFF00&background=%23333333¢er=true&width=280&height=60">
-</p>
-<!--<p align="center">
+</p>-->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=280&height=60">
 </p>
 <!--<<p align="center">
