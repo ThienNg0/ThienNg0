@@ -1,11 +1,13 @@
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=200&color=F72585&color2=7209B7&background=00000000&center=true&vCenter=true&lines=Welcome+to+my+profile!;Explore+the+world+of+coding!;Feel+free+to+connect!;Enjoy+your+visit!" 
+    src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=200&color=F72585&color2=7209B7&background=00000000&center=true&vCenter=true&lines=Make+money,+not+friends.;Is+that+you?;Dream+big,+hustle+hard.;Stay+hungry,+stay+foolish.;Born+to+stand+out!" 
     alt="Typing SVG Animation" 
     width="500" 
     height="80" 
   />
 </p>
+
 
 <!--
 <p align="center">
