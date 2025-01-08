@@ -1,9 +1,16 @@
-<!--<<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%23FFFF00&background=%23333333¢er=true&width=280&height=60">
+
+<!--<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=280&height=60">
 </p>-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings+visitor!;Explore+my+coding+world;Feel+free+to+reach+out!;Enjoy+your+stay!&font=Fira%20Code&color=%2365C9FF&center=true&width=280&height=60">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=65C9FF&background=00000000&center=true&vCenter=true&lines=Welcome+to+my+profile!;Explore+the+world+of+coding!;Feel+free+to+connect!;Enjoy+your+visit!" 
+    alt="Typing SVG Animation" 
+    width="400" 
+    height="80" 
+  />
 </p>
+
 <!--<<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+New+Year+2025!;Wishing+you+joy+and+success!;Make+this+year+amazing!&font=Fira%20Code&color=%23FF0000&center=true&width=380&height=60">
 </p>-->
