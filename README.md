@@ -1,12 +1,13 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=100&color=F72585&color2=7209B7&background=00000000&center=true&vCenter=true&lines=Is+that+you?;" 
+    src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=200&ccolor=F72585&color2=7209B7&background=00000000&center=true&vCenter=true&lines=Who+just+landed+here?;Let's+create+something+amazing!;Ready+to+dive+in?" 
     alt="Typing SVG Animation" 
     width="500" 
     height="80" 
   />
 </p>
+
 
 
 <!--
