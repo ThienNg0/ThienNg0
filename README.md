@@ -1,6 +1,16 @@
-<!-- GitHub Stats -->
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats-salesp07.vercel.app?user=chjthjen&theme=tokyonight&hide_border=true&locale=zh_Hans&date_format=j%2Fn%5B%2FY%5D" 
+      alt="GitHub Streak" 
+    />
+  </a>
+</div>
+
+
+<!-- GitHub Stats 
 <p align="center">
-  <img 
+  
     src="https://github-readme-stats.vercel.app/api?username=chjthjen&show_icons=true&theme=synthwave" 
     alt="GitHub Stats" 
     width="400" 
