@@ -8,7 +8,7 @@
   />
 </p>
 
-
+<!--<img src="https://github.com/chjthjen/chjthjen/blob/chithien/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <!--
 <p align="center">
