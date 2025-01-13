@@ -3,8 +3,10 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=chjthjen&show_icons=true&theme=synthwave" 
     alt="GitHub Stats" 
+    width="400" 
   />
 </p>
+
 <!--
 <p align="center">
   <img 
