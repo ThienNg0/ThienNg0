@@ -1,4 +1,11 @@
-
+<!-- GitHub Stats -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chjthjen&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+  />
+</p>
+<!--
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=200&ccolor=F72585&color2=7209B7&background=00000000&center=true&vCenter=true&lines=Who+just+landed+here?;Let's+create+something+amazing!;Ready+to+dive+in?" 
