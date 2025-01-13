@@ -1,7 +1,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=chjthjen&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=chjthjen&show_icons=true&theme=synthwave" 
     alt="GitHub Stats" 
   />
 </p>
