@@ -6,7 +6,7 @@
     />
   </a>
 </p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toyfso1&theme=onedark-duo&border_radius=5&locale=ja&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 
 <!-- GitHub Stats 
